@@ -5,7 +5,7 @@ import { fortmatic, injected, portis, walletconnect, walletlink } from '../conne
 
 //export const ROUTER_ADDRESS = '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D'
 //export const ROUTER_ADDRESS = '0x3702D24d83073bab1aa5E04d187cE2398a00A58F'
-export const ROUTER_ADDRESS = '0x73AfBfE35C421Ac4DAaA6Df96d051E7E8910AA4F'
+export const ROUTER_ADDRESS = '0xFCd06D386184d3a9dc7300225CA7388f7aBA3312'
 
 // a list of tokens by chain
 type ChainTokenList = {
