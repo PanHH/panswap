@@ -1,1 +1,10 @@
 # panswap
+
+WETH: 0x67D108BA48D60b8f7315d3094D30E9fA6C5dE318<br>
+UniswapV2Factory: 0x5b1BAb8960b658bBF4649f03eFCccDA2371572e1<br>
+UniswapV2Router01: 0xfb1Da8c81636cE414F56aBeb4E1d286B7cC05176<br>
+UniswapV2Router02: 0x73AfBfE35C421Ac4DAaA6Df96d051E7E8910AA4F<br>
+INIT_CODE_HASH: 0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f<br>
+
+## website
+https://panhh.github.io/panswap/index.html#/swap
